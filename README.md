@@ -1,1 +1,1 @@
-# rock_paper_scissors
+Just a clone of the famous game "Rock, paper, scissors".
